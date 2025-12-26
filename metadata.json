@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Tạo VIDEO tự động ",
+  "description": "A high-performance batch video generation tool using Google Veo models. Supports parallel processing, queue management, and multiple input types (Text/Image).",
+  "requestFramePermissions": []
+}
